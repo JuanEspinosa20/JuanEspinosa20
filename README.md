@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=TU_USUARIO_GITHUB)
-
 ### 👋 Hi there! I'm Juan David Espinosa
 
 💻 **Full Stack Developer**  
