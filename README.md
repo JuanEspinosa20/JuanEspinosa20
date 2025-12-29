@@ -61,7 +61,7 @@ I enjoy turning ideas into functional applications and improving my skills every
    <i>“Consistency beats motivation.”</i>
    <br><br>
    <a target="_blank" href="https://www.linkedin.com/">
-     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white">
+     <img src="https://www.linkedin.com/in/juan-david-espinosa-4606673a3/">
    </a>
    <a target="_blank" href="mailto:TU_CORREO">
      <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white">
