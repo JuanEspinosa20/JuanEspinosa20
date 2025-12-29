@@ -37,8 +37,7 @@ I enjoy turning ideas into functional applications and improving my skills every
 <h4> Frameworks & Libraries </h4>
 <span>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+  <img src="<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </span>
 
@@ -60,10 +59,10 @@ I enjoy turning ideas into functional applications and improving my skills every
 <p align="center">
    <i>“Consistency beats motivation.”</i>
    <br><br>
-   <a target="_blank" href="https://www.linkedin.com/">
-     <img src="https://www.linkedin.com/in/juan-david-espinosa-4606673a3/">
+   <a target="_blank" href="https://www.linkedin.com/in/juan-david-espinosa-4606673a3/">
+     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white">
    </a>
-   <a target="_blank" href="mailto:TU_CORREO">
+   <a target="_blank" href="mailto:juan.ost20@gmail.com">
      <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white">
    </a>
 </p>
