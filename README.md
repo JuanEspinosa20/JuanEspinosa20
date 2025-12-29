@@ -10,14 +10,13 @@ I enjoy turning ideas into functional applications and improving my skills every
 	- Web Application Development
 	- Full Stack Projects (Frontend + Backend)
 - ⚛️ Frontend focused on **React**
-- 🧠 Backend experience with **Django** and **Spring Boot**
+- 🧠 Backend experience with **NextJS**
 - 🌱 Learning more about **Next.js, Databases and Cloud**
 - 💬 Talk to me about Web Development, React, APIs, project architecture and learning paths.
 
 ---
 
 ## 🚀 Featured Projects
-- 📚 School management system (Django)
 - 📝 To-Do List App (React)
 - 🧮 Calculator, Counter & UI components (React)
 - 📦 Inventory management system (in progress)
